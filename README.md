@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Zubair Abbas
+### Hi there 👋, Zubair Abbas
 
-Skills:  C++ | Graphic Design
+Skills: C++ | Graphic Design
 
 - 🌱 I’m currently learning OOP 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zubiiabbasi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](zubiidesign@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zubiiabbasi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zubiidesign//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](zubiidesign@gmail.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubiiabbasi)](https://github.com/anuraghazra/github-readme-stats)
 
