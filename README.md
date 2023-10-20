@@ -11,10 +11,4 @@ Skills: C++ | Graphic Design
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zubiiabbasi&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zubiiabbasi)  
-
-![GitHub metrics](https://metrics.lecoq.io/zubiiabbasi)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=zubiiabbasi)  
-
-![Profile views](https://gpvc.arturio.dev/zubiiabbasi)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=zubiiabbasi)
