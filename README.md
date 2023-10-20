@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Zubair Abbas
-
-Skills: C++ | Graphic Design
+C++ Developer | Graphic Designer
 
 - 🌱 I’m currently learning OOP
 
