@@ -2,7 +2,7 @@
 
 C++ Developer | Graphic Designer
 
-- 🌱 I’m currently learning OOP
+- 🌱 I’m currently learning DSA
 
 - ✉️ zubiidesign@gmail.com
 
