@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Zubair Abbas
 
-C++ Developer | Graphic Designer
+Developer | Designer
 
 - 🌱 I’m currently learning DSA
 
