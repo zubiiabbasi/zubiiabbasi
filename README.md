@@ -2,7 +2,7 @@
 
 Developer | Designer
 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Flutter
 
 - ✉️ zubiidesign@gmail.com
 
