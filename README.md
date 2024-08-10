@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Zubair Abbas
 
-Developer | Designer
+
+# Developer | Designer
 
 - ✉️ zubiidesign@gmail.com
