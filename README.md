@@ -1,3 +1,3 @@
 
 
-# Mobile Application Developer | Designer
+# Mobile Application Developer
