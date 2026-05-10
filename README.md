@@ -1,3 +1,3 @@
 
 
-# Software Enigneer | AI/ML
+# Software Engineer | AI/ML
