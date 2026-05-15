@@ -1,3 +1,3 @@
 
 
-# Software Engineer | AI/ML
+# Software Engineer | Flutter | Backend (NestJS) & CI/CD | Advancing in AI/ML
